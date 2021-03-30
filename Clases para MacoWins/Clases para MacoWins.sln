@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases para MacoWins", "Clases para MacoWins\Clases para MacoWins.csproj", "{260E4EFB-60C6-45AB-A407-7FBA098FFFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260E4EFB-60C6-45AB-A407-7FBA098FFFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260E4EFB-60C6-45AB-A407-7FBA098FFFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260E4EFB-60C6-45AB-A407-7FBA098FFFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260E4EFB-60C6-45AB-A407-7FBA098FFFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02172209-4F4B-41F3-A792-D8513182B081}
+	EndGlobalSection
+EndGlobal
